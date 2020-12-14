@@ -72,6 +72,10 @@ body{
 	
 
 }
+
+#about_journey{
+	max-width: 500px;
+}
 #topchunk{
 	justify-content: space-between;
 	padding-top: 150px;
